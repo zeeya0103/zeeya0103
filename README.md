@@ -1,4 +1,4 @@
-## Hi there# Hi, I'm Zeeya Sinha 👋
+ Hi, I'm Zeeya Sinha 👋
 
 ## 🚀 AI/ML Engineer | Generative AI | Full-Stack AI Developer
 
