@@ -152,7 +152,7 @@ A conversational AI medical assistant powered by LLMs.
 
 📧 Email: **zeeyasinha19@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/zeeyasinha**
+💼 LinkedIn: **www.linkedin.com/in/zeeya-sinha-26b829312**
 
 💻 GitHub: **https://github.com/zeeyasinha**
 
